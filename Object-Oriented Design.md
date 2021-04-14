@@ -19,6 +19,9 @@
 ## What is the **Single Responsibility Principle (SRP)**?
 The principle that a class should be written to do only one thing.
 
+## What is Inheritance?
+- Inheritance allows a class to inherit attributes and methods from another class. 
+
 ## What is abstraction?
 - A core concpt of OOP.
 - Abstraction is the concept of exposing tot he user only those things that are relevnt to them and hiding the remainder of the details.
